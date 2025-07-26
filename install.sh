@@ -83,7 +83,7 @@ main() {
 }
 
 add_tunnel() {
-    echo "Можешь ничего не выбирать, у тебя нет выбора"
+    echo "Можешь ничего не выбирать"
     echo "1) VLESS, Shadowsocks (A sing-box will be installed)"
     echo "2) Wireguard"
     echo "3) AmneziaWG"
